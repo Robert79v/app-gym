@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "6.4.1",
+        "phpmailer/phpmailer": "^6.1",
+        "spipu/html2pdf": "^5.0"
+    }
+}
